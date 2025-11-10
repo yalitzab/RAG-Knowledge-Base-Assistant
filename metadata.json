@@ -1,0 +1,5 @@
+{
+  "name": "RAG Knowledge Base Assistant",
+  "description": "An interactive web application demonstrating Retrieval-Augmented Generation (RAG). Users can chat with an AI assistant that answers questions based on a dynamic knowledge base, which can be expanded by adding new FAQs or uploading PDF documents.",
+  "requestFramePermissions": []
+}
